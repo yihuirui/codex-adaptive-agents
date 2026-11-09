@@ -2,6 +2,8 @@
 
 > **Fork 说明**：本仓库是 [aweiht/codex-adaptive-agents](https://github.com/aweiht/codex-adaptive-agents) 的只读镜像，当前 `main` 与上游完全一致（领先 0、落后 0 个提交），没有自有改动。上游持续维护，下文的安装与 `git clone` 命令刻意指向上游仓库，使用与更新均以上游为准。本仓库已关闭 issue，请到上游反馈问题。
 
+> **归档说明（2026-11-09）**：本镜像仓库已归档，处于只读状态，仅作参考保留，未删除、可见性未改变。归档是可逆的，取消归档即可恢复可写。使用与更新仍以上游仓库为准。
+
 **通用任务选 Luna 档位，真实电脑/浏览器操作包选 Terra `xhigh`，由主 Agent 负责规划与验收。**
 
 [English](README.md) · 简体中文 · [验证记录](docs/VALIDATION.md) · [操作指南](docs/PUBLIC_GUIDE.md)

@@ -2,6 +2,8 @@
 
 > **Fork notice:** This repository is a read-only mirror of [aweiht/codex-adaptive-agents](https://github.com/aweiht/codex-adaptive-agents). Its `main` branch is currently identical to upstream (0 commits ahead, 0 behind) and has no local changes. Upstream is actively maintained; the install and `git clone` commands below intentionally point to the upstream repository, which is the source of truth for usage and updates. Issues are disabled here, so please report upstream.
 
+> **Archived (2026-11-09):** This mirror is archived and read-only. It is kept for reference, not deleted, and its public visibility is unchanged. Archiving is reversible; unarchive the repository to make it writable again. Usage and updates continue to come from upstream.
+
 [简体中文](README.zh-CN.md)
 
 Codex Adaptive Agents is a small Python runtime and installer for the official
